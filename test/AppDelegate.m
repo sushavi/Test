@@ -17,11 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    
-    //b1
-    //b2
-    //b3
-    //b4
+    //vaishu
     
     return YES;
 }
